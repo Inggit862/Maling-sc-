@@ -7,6 +7,7 @@
 <pre><code>wget https://raw.githubusercontent.com/sanzstore21/sc/main/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 
+
 ### TESTED ON OS 
 - UBUNTU 20
 - DEBIAN 10 ( Recomended )
